@@ -1,0 +1,212 @@
+div
+{
+    border-radius: 5px;
+    }
+
+body{
+	background: url('background.jpg');
+	color: #fff;
+}
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:50px;
+    width: 99%;
+    background-color: pink;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+        margin-left: 20px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+}
+
+#email1{
+    float:right;
+    margin-right: 20px;
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: red;
+}
+
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+    }
+
+a:hover {
+    font-weight: bold;
+}
+
+.right
+{
+    float: right;
+    margin-top: 10px;
+    padding-left:10px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: 260px;
+    width: 49%;
+    color: black;
+    background: rgba(7, 255, 255, 0.7);
+    }
+
+.right2
+    {
+        float: right;
+        margin-top: 5px;
+        padding-left:10px;
+        /*margin-right: -10px;
+        margin-left: 14%;*/
+        height: 240px;
+        width: 49%;
+        color: black;
+        background: rgba(7, 255, 255, 0.7);
+        }
+
+.top
+    {
+        float: left;
+        margin-top: 10px;
+        padding-left:10px;
+        /*margin-right: -10px;
+        margin-left: 14%;*/
+        height: auto;
+        width: 99%;
+        color: black;
+        background-color:powderblue;
+        }
+
+  .topright
+    {
+        float: left;
+        margin-top: 10px;
+        padding-left:10px;
+        height: auto;
+        width: 99%;
+        color: black;
+        background: rgba(7, 255, 255, 0.7);
+        }
+
+.left
+{
+    float: left;
+    margin-top: 60px;
+    padding-left:10px;
+    height: 400px;
+    width:99%;
+    color: black;
+    background-color:powderblue;
+    font-size: 18px;
+    line-height: 35px;
+    }
+
+.left1
+    {
+        float: left;
+        margin-top: 10px;
+        padding-left:10px;
+        height: 505px;
+        width:49%;
+        color: black;
+        background: rgba(7, 255, 255, 0.7);
+        font-size: 15px;
+        line-height: 28px;
+        }
+
+.left1 .li_wrap{
+        	display: flex;
+        	align-items: center;
+        	width: 100%;
+        	margin-bottom: 15px;
+        }
+
+.left1 .li_wrap .icon{
+        	width: 80px;
+        	height: 80px;
+        	background: #ffffff;
+        	border-radius: 50px;
+        	display: flex;
+        	align-items: center;
+        	justify-content: center;
+        	margin-right: 15px;
+        }
+
+.left1 .li_wrap .text{
+        	width: calc(100% - 50px);
+        	word-break: break-word;
+        	color: #ffffff;
+        }
+
+#section2
+{
+  float: left;
+  margin-top: 10px;
+  padding-left:10px;
+  /*margin-right: -10px;
+  margin-left: 14%;*/
+  height: auto;
+  width: 99%;
+  color: black;
+  background-color:powderblue;
+    }
+
+#section3
+    {
+      float: left;
+      margin-top: 10px;
+      padding-left:10px;
+      /*margin-right: -10px;
+      margin-left: 14%;*/
+      height: auto;
+      width: 99%;
+      color: black;
+      background-color:powderblue;
+        }
+
+h1
+{
+    color: black;
+    font-size: 20px;
+    }
+h3
+{
+    text-decoration: underline;
+    font-size: 25px;
+    }
+
+h2{
+  text-decoration: bold;
+  font-size: 20px;
+}
+
+table
+{
+    border: 1px dashed black;
+    color:black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#heading
+{
+    font-weight:bold;
+    }
